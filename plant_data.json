@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wheat_healthy",
+    "plant_name": "Wheat",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Staple global cereal grain", "Grows best in temperate climates", "Rich source of carbohydrates and protein"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/wheat_healthy.jpg"
+  },
+  {
+    "id": "wheat_leaf_rust",
+    "plant_name": "Wheat",
+    "status": "Diseased",
+    "disease_name": "Leaf Rust",
+    "plant_features": ["Staple global cereal grain", "Grows best in temperate climates", "Rich source of carbohydrates and protein"],
+    "symptoms": ["Small, circular, orange-red spots (pustules) on leaves", "Pustules mainly appear on the upper leaf surface", "Yellowing and premature death of leaves"],
+    "treatment": "Apply a foliar fungicide at the first sign of pustules. Use rust-resistant wheat varieties for future planting.",
+    "image_url": "/images/wheat_rust.jpg"
+  },
+  {
+    "id": "rice_healthy",
+    "plant_name": "Rice",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Primary staple food for over half the world's population", "Grown in flooded fields (paddies)", "Requires high heat and humidity"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/rice_healthy.jpg"
+  },
+  {
+    "id": "rice_brown_spot",
+    "plant_name": "Rice",
+    "status": "Diseased",
+    "disease_name": "Brown Spot",
+    "plant_features": ["Primary staple food for over half the world's population", "Grown in flooded fields (paddies)", "Requires high heat and humidity"],
+    "symptoms": ["Oval brown spots with grey or white centers", "Spots resemble sesame seeds", "Can infect leaves, leaf sheaths, and glumes"],
+    "treatment": "Improve soil nutrient management (especially Potassium). Apply seed treatments and appropriate fungicides before the booting stage.",
+    "image_url": "/images/rice_brown_spot.jpg"
+  },
+  {
+    "id": "corn_healthy",
+    "plant_name": "Corn / Maize",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Tall annual cereal grass", "Used for food, feed, and industrial products", "Requires warm weather and lots of sunlight"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/corn_healthy.jpg"
+  },
+  {
+    "id": "corn_common_rust",
+    "plant_name": "Corn / Maize",
+    "status": "Diseased",
+    "disease_name": "Common Rust",
+    "plant_features": ["Tall annual cereal grass", "Used for food, feed, and industrial products", "Requires warm weather and lots of sunlight"],
+    "symptoms": ["Elongated, brick-red to brown pustules on leaves", "Pustules appear on both upper and lower leaf surfaces", "In severe cases, leaves turn yellow and dry out"],
+    "treatment": "Spray with protective fungicides if rust is detected early in the season. Ensure good crop rotation.",
+    "image_url": "/images/corn_rust.jpg"
+  },
+  {
+    "id": "soybean_healthy",
+    "plant_name": "Soybean",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Legume native to East Asia", "High protein and oil content", "Adds nitrogen to the soil"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/soybean_healthy.jpg"
+  },
+  {
+    "id": "soybean_downy_mildew",
+    "plant_name": "Soybean",
+    "status": "Diseased",
+    "disease_name": "Downy Mildew",
+    "plant_features": ["Legume native to East Asia", "High protein and oil content", "Adds nitrogen to the soil"],
+    "symptoms": ["Pale green to light yellow spots on upper leaves", "Greyish tufts of fungal growth on lower leaf surfaces", "Premature defoliation"],
+    "treatment": "Use disease-free seeds and apply targeted broad-spectrum fungicides. Improve field drainage.",
+    "image_url": "/images/soybean_mildew.jpg"
+  },
+  {
+    "id": "sugarcane_healthy",
+    "plant_name": "Sugarcane",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Tall perennial grass", "Main source of table sugar", "Thrives in tropical climates"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/sugarcane_healthy.jpg"
+  },
+  {
+    "id": "sugarcane_red_rot",
+    "plant_name": "Sugarcane",
+    "status": "Diseased",
+    "disease_name": "Red Rot",
+    "plant_features": ["Tall perennial grass", "Main source of table sugar", "Thrives in tropical climates"],
+    "symptoms": ["Yellowing and wilting of the uppermost leaves", "Red lesions with white centers appearing on the midrib", "Alcoholic smell originating from the cane interior"],
+    "treatment": "Uproot and burn diseased clumps immediately. Avoid water accumulation in the field.",
+    "image_url": "/images/sugarcane_redrot.jpg"
+  },
+  {
+    "id": "cotton_healthy",
+    "plant_name": "Cotton",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Major global fiber crop", "Requires long, frost-free frost periods", "Grows bolls containing fibers and seeds"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/cotton_healthy.jpg"
+  },
+  {
+    "id": "cotton_boll_rot",
+    "plant_name": "Cotton",
+    "status": "Diseased",
+    "disease_name": "Boll Rot",
+    "plant_features": ["Major global fiber crop", "Requires long, frost-free frost periods", "Grows bolls containing fibers and seeds"],
+    "symptoms": ["Small brown or black spots on the bolls", "As infection progresses, the entire boll rots", "Fungal spores or slimy bacterial oozes visible"],
+    "treatment": "Increase row spacing to allow airflow and sunlight to penetrate the canopy. Apply necessary defoliants.",
+    "image_url": "/images/cotton_boll_rot.jpg"
+  },
+  {
+    "id": "peanut_healthy",
+    "plant_name": "Peanut / Groundnut",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Legume crop grown for its edible seeds", "Seeds develop entirely underground", "High oil and protein yield"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/peanut_healthy.jpg"
+  },
+  {
+    "id": "peanut_early_leaf_spot",
+    "plant_name": "Peanut / Groundnut",
+    "status": "Diseased",
+    "disease_name": "Early Leaf Spot",
+    "plant_features": ["Legume crop grown for its edible seeds", "Seeds develop entirely underground", "High oil and protein yield"],
+    "symptoms": ["Brownish-red circular spots on leaves", "Bright yellow halo forming around the spots", "Severe defoliation leading to yield loss"],
+    "treatment": "Start preventative fungicide spray programs 30-40 days after planting. Practice 3-year crop rotation.",
+    "image_url": "/images/peanut_leaf_spot.jpg"
+  },
+  {
+    "id": "sorghum_healthy",
+    "plant_name": "Sorghum",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Drought-tolerant cereal grain", "Used for human food, animal feed, and ethanol", "Highly resilient in arid regions"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/sorghum_healthy.jpg"
+  },
+  {
+    "id": "sorghum_anthracnose",
+    "plant_name": "Sorghum",
+    "status": "Diseased",
+    "disease_name": "Anthracnose",
+    "plant_features": ["Drought-tolerant cereal grain", "Used for human food, animal feed, and ethanol", "Highly resilient in arid regions"],
+    "symptoms": ["Small circular to elliptical red/purple spots", "Midrib infection causing elongated red lesions", "Stem rot and lodging (stalks falling over)"],
+    "treatment": "Use disease-free seeds and resistant hybrids. Eradicate wild grasses acting as alternate hosts.",
+    "image_url": "/images/sorghum_anthracnose.jpg"
+  },
+  {
+    "id": "barley_healthy",
+    "plant_name": "Barley",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Member of the grass family", "Major cereal grain for humans, fodder, and brewing", "Extremely adaptable to various climates"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/barley_healthy.jpg"
+  },
+  {
+    "id": "barley_net_blotch",
+    "plant_name": "Barley",
+    "status": "Diseased",
+    "disease_name": "Net Blotch",
+    "plant_features": ["Member of the grass family", "Major cereal grain for humans, fodder, and brewing", "Extremely adaptable to various climates"],
+    "symptoms": ["Dark brown stringy lesions resembling a 'net' on leaves", "Lesions quickly join out dying out entire leaves", "Drastic reduction in grain plumpness"],
+    "treatment": "Foliar fungicide application is critical at the flag leaf emergence stage. Bury infected stubble deeply.",
+    "image_url": "/images/barley_blotch.jpg"
+  },
+  {
+    "id": "onion_healthy",
+    "plant_name": "Onion",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Widely cultivated vegetable and bulb", "Pungent flavor due to sulfur compounds", "Requires cool weather to start, warm weather to bulb"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/onion_healthy.jpg"
+  },
+  {
+    "id": "onion_purple_blotch",
+    "plant_name": "Onion",
+    "status": "Diseased",
+    "disease_name": "Purple Blotch",
+    "plant_features": ["Widely cultivated vegetable and bulb", "Pungent flavor due to sulfur compounds", "Requires cool weather to start, warm weather to bulb"],
+    "symptoms": ["Water-soaked lesions on leaves turning purple", "Concentric dark rings within the purple spots", "Leaves breaking over and dying out"],
+    "treatment": "Apply protectant fungicides such as Mancozeb before bulb formation. Avoid excess nitrogen fertilization.",
+    "image_url": "/images/onion_purple.jpg"
+  },
+  {
+    "id": "cabbage_healthy",
+    "plant_name": "Cabbage",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Leafy green or purple biennial plant", "Grown as an annual vegetable crop", "Thrives in cooler climates"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/cabbage_healthy.jpg"
+  },
+  {
+    "id": "cabbage_black_rot",
+    "plant_name": "Cabbage",
+    "status": "Diseased",
+    "disease_name": "Black Rot",
+    "plant_features": ["Leafy green or purple biennial plant", "Grown as an annual vegetable crop", "Thrives in cooler climates"],
+    "symptoms": ["V-shaped yellow lesions on the edges of leaves", "Veins turning completely black", "Foul smelling rotting of the stem internal structure"],
+    "treatment": "Strictly use hot-water treated seeds. Rotate crops with non-cruciferous plants for at least 3 years.",
+    "image_url": "/images/cabbage_black_rot.jpg"
+  },
+  {
+    "id": "tomato_healthy",
+    "plant_name": "Tomato",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Extremely popular warm-season crop", "Rich in Vitamin C and Lycopene", "Prefers slightly acidic soil"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/tomato_healthy.jpg"
+  },
+  {
+    "id": "tomato_early_blight",
+    "plant_name": "Tomato",
+    "status": "Diseased",
+    "disease_name": "Early Blight",
+    "plant_features": ["Extremely popular warm-season crop", "Rich in Vitamin C and Lycopene", "Prefers slightly acidic soil"],
+    "symptoms": ["Brown/black spots with concentric target rings", "Yellowing around spots", "Bottom leaves drop off first"],
+    "treatment": "Remove affected leaves immediately and treat with copper-based organic fungicides.",
+    "image_url": "/images/tomato_blight.jpg"
+  },
+  {
+    "id": "potato_healthy",
+    "plant_name": "Potato",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Starchy root vegetable", "Grows entirely underground", "Needs well-drained, loose soil"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/potato_healthy.jpg"
+  },
+  {
+    "id": "potato_late_blight",
+    "plant_name": "Potato",
+    "status": "Diseased",
+    "disease_name": "Late Blight",
+    "plant_features": ["Starchy root vegetable", "Grows entirely underground", "Needs well-drained, loose soil"],
+    "symptoms": ["Water-soaked dark spots on leaves", "White fungal growth on leaf undersides", "Rapid rotting of tubers"],
+    "treatment": "Destroy infected crops entirely to prevent spread. Do not compost.",
+    "image_url": "/images/potato_blight.jpg"
+  },
+  {
+    "id": "cherry_healthy",
+    "plant_name": "Cherry",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Deciduous fruit tree", "Requires cold winter chilling to fruit", "Susceptible to moisture damage"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/cherry_healthy.jpg"
+  },
+  {
+    "id": "cherry_powdery_mildew",
+    "plant_name": "Cherry",
+    "status": "Diseased",
+    "disease_name": "Powdery Mildew",
+    "plant_features": ["Deciduous fruit tree", "Requires cold winter chilling to fruit", "Susceptible to moisture damage"],
+    "symptoms": ["White, powdery patches on leaves and young stems", "Curling and blistering of leaves", "Fruit cracking and rotting"],
+    "treatment": "Apply sulfur or potassium bicarbonate fungicides early in the season. Prune to improve air circulation.",
+    "image_url": "/images/cherry_mildew.jpg"
+  },
+  {
+    "id": "grape_healthy",
+    "plant_name": "Grape",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Woody climbing vine", "Produces berries in clusters", "Requires extensive pruning"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/grape_healthy.jpg"
+  },
+  {
+    "id": "grape_black_measles",
+    "plant_name": "Grape",
+    "status": "Diseased",
+    "disease_name": "Black Measles (Esca)",
+    "plant_features": ["Woody climbing vine", "Produces berries in clusters", "Requires extensive pruning"],
+    "symptoms": ["Tiger-stripe patterned browning on leaves", "Dark spots (measles) appearing on the fruit", "Sudden wilting of the entire vine"],
+    "treatment": "No chemical cure exists for internal fungus. Prune out dead wood and protect pruning wounds with paste.",
+    "image_url": "/images/grape_measles.jpg"
+  },
+  {
+    "id": "monstera_healthy",
+    "plant_name": "Monstera Deliciosa",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Tropical evergreen houseplant vine", "Develops natural holes (fenestrations)", "Prefers bright, indirect light"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/monstera_healthy.jpg"
+  },
+  {
+    "id": "monstera_root_rot",
+    "plant_name": "Monstera Deliciosa",
+    "status": "Diseased",
+    "disease_name": "Root Rot",
+    "plant_features": ["Tropical evergreen houseplant vine", "Develops natural holes (fenestrations)", "Prefers bright, indirect light"],
+    "symptoms": ["Yellowing lower leaves", "Black or mushy stems near the soil", "Stunted growth and drooping"],
+    "treatment": "Stop watering immediately. Repot in chunky, well-draining soil and trim away black, mushy roots.",
+    "image_url": "/images/monstera_root_rot.jpg"
+  },
+  {
+    "id": "snake_plant_healthy",
+    "plant_name": "Snake Plant (Sansevieria)",
+    "status": "Healthy",
+    "disease_name": null,
+    "plant_features": ["Extremely hardy succulent houseplant", "Purifies indoor air", "Tolerates low light and drought"],
+    "symptoms": [],
+    "treatment": null,
+    "image_url": "/images/snake_plant_healthy.jpg"
+  },
+  {
+    "id": "snake_plant_fungal",
+    "plant_name": "Snake Plant (Sansevieria)",
+    "status": "Diseased",
+    "disease_name": "Fungal Leaf Spot",
+    "plant_features": ["Extremely hardy succulent houseplant", "Purifies indoor air", "Tolerates low light and drought"],
+    "symptoms": ["Reddish-brown lesions on leaves", "Soft, mushy patches", "Leaves folding or falling over"],
+    "treatment": "Cut off affected leaves below the rot using sterile shears. Keep leaves completely dry when watering.",
+    "image_url": "/images/snake_plant_fungal.jpg"
+  }
+]
